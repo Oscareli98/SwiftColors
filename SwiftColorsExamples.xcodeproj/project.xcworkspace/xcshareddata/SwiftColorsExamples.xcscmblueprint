@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FA5854065B02C7C5F8100CBA9A27DE40AC0556B3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FA5854065B02C7C5F8100CBA9A27DE40AC0556B3" : 0,
+    "F0D6080BE1A1D4FBE1AC5622CDFFE85BB5F6C4E8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "09BF62F5-6FB4-447B-B1AA-C3F2003F8084",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FA5854065B02C7C5F8100CBA9A27DE40AC0556B3" : "SwiftColors\/",
+    "F0D6080BE1A1D4FBE1AC5622CDFFE85BB5F6C4E8" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SwiftColorsExamples",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SwiftColorsExamples.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Oscareli98\/ilostapet-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F0D6080BE1A1D4FBE1AC5622CDFFE85BB5F6C4E8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Oscareli98\/SwiftColors",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FA5854065B02C7C5F8100CBA9A27DE40AC0556B3"
+    }
+  ]
+}
